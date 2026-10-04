@@ -10,8 +10,8 @@
 
 ## 🚀 Featured Projects
 
-* SelfTrack 📈 ([link](#https://github.com/Venderoz/MoodTrackerApp)) - a habit tracking application
-* Multimedia Gesture Viewer 🖐️ ([link](#https://github.com/DominusPolsl/library_AI)) - media software controlled by hand gestures
+* SelfTrack 📈 ([link](https://github.com/Venderoz/MoodTrackerApp)) - a habit tracking application
+* Multimedia Gesture Viewer 🖐️ ([link](https://github.com/DominusPolsl/library_AI)) - media software controlled by hand gestures
 
 ---
 
