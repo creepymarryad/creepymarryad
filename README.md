@@ -1,8 +1,8 @@
 # Hi! 👋 I'm Mariia
 
-🎓 Computer Science student at Silesian University of Technology
-💻 IT Responsible at the BEST student organization, where I manage web projects and infrastructure
-🌱 Passionate about creating impactful software
+🎓 Computer Science student at Silesian University of Technology  
+💻 IT Responsible at the BEST student organization, where I manage web projects and infrastructure  
+🌱 Passionate about creating impactful software  
 
 ---
 
